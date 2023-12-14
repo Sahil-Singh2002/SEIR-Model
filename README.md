@@ -55,7 +55,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - The SEIR model is a well-known epidemiological model, and this implementation is inspired by its principles.
-
----
-
-Remember to include the appropriate license file (e.g., `LICENSE`) and adjust any sections based on the specifics of your project and its requirements.
