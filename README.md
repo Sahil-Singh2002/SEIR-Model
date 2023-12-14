@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your code. You might need to adjust it based on the specifics of your project and any additional information you want to provide.
-
----
-
 # SEIR Model for Workplace Infection Spread
 
 ## Overview
