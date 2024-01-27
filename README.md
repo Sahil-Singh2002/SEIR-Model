@@ -95,10 +95,6 @@ The script includes the following key parameters:
 
 The script generates plots displaying the progression of susceptible, exposed, infected, and recovered individuals over time for multiple simulations. The stochastic nature of the simulation introduces variability in the outcomes.
 
-## Acknowledgments
-
-- The SEIR model is a standard epidemiological model, and this implementation introduces stochasticity to better capture real-world uncertainties.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
